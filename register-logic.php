@@ -1,10 +1,12 @@
 <?php
     include 'init.php';
     $nome = post('nome');
-    $sobrenome = post('sobrenome');
     $email = post('email');
     $senha = post('senha');
     $senha2 = post('senha2');
+    $telefone = post('telefone');
+    $cidade = post('cidade');
+    $bairro = post('bairro');
 ?>
 
 <?php if ($senha != $senha2): ?>
@@ -14,7 +16,7 @@
 <?php endif ?>
 
 <?php
-    $data = juntar([$nome, $sobrenome, $email, md5($senha)]) . "\n";
+    $data = juntar([$nome, $email, md5($senha), $telefone, $cidade, $bairro]) . "\n";
     // salva o dado no arquivo csv
     $handle = fopen('users.csv', 'a');
     fwrite($handle, $data);

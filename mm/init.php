@@ -22,22 +22,5 @@ function logout() {
 function is_logged() {
     return $_SESSION['logado'] ?? false;
 }
-function currentUser() {
-    if (!is_logged()) {
-        return false;
-    }
-    return $_SESSION['usuario'] ?? false;
-}
-function currentUserEmail() {
-    if (!is_logged()) {
-        return false;
-    }
-    return $_SESSION['email'] ?? false;
-}
-function redirect($caminho) {
-    header('location: ' . $caminho);
-    exit();
-}
-
 define('TITLE', 'Sistema de Doações');
 ?>

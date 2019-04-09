@@ -6,10 +6,12 @@
     }
     $inputs = [
         'nome' => 'text',
-        'sobrenome' => 'text',
         'email' => 'text',
         'senha' => 'password',
-        'senha2' => 'password'
+        'senha2' => 'password',
+        'telefone' => 'number',
+        'cidade' => 'text',
+        'bairro' => 'text',
     ];
     $usuariosFile = file('users.csv');
     $usuarios = [];

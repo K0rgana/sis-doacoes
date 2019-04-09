@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"i",
+				"itam"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"a",
+				"ano"
+			],
+			[
+				"no",
+				"nota2"
+			],
+			[
+				"nota",
+				"nota1"
+			],
+			[
+				"n",
+				"n2"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"gi",
+				"github"
+			],
+			[
+				"ar",
+				"arquivo"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"pre",
+				"preco"
+			],
+			[
+				"v",
+				"v1"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"po",
+				"pow"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/morgana/study/phpcourse/exer/coress.php",
+		"/home/morgana/study/phpcourse/exer/cor.php",
+		"/home/morgana/ifinform/index.php",
+		"/home/morgana/study/phpcourse/exer/anoo.php",
+		"/home/morgana/study/phpcourse/exer/ano.php",
+		"/home/morgana/study/phpcourse/exer/raizz.php",
+		"/home/morgana/study/phpcourse/exer/raiz.php",
+		"/home/morgana/study/phpcourse/README.md",
+		"/home/morgana/study/phpcourse/relacionais.php",
+		"/home/morgana/Documentos/index.php",
+		"/home/morgana/study/phpcourse/funcoes.php",
+		"/home/morgana/study/phpcourse/exerc01.php",
+		"/home/morgana/study/phpcourse/operacoes.php",
+		"/home/morgana/study/phpcourse/somador.php",
+		"/home/morgana/study/phpcourse/tipos.php",
+		"/home/morgana/study/phpcourse/hello.php",
+		"/home/morgana/Área de Trabalho/wd_udemy_aula1.html",
+		"/home/morgana/Área de Trabalho/untitled.java",
+		"/home/morgana/Área de Trabalho/IFProcess.java",
+		"/tmp/mozilla_morgana0/IFProcess.java"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "auth.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
